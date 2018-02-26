@@ -8,7 +8,7 @@ The input file is HPCP sequence extracted from hpcp.py, and the output file is .
 The input file is audio format (supporting many formats like wav, mp3, etc.), and the output file is .npy format.
 </pre>
 
-## Feature enhancemant
+## Feature enhancement
 <pre>Usage: python representation.py filelist source_dir target_dir
 Filelist provides the files for feature enhancement. Source_dir is the directory containing the files. Target_dir contains the output files. 
 </pre>
